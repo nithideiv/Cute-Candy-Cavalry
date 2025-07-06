@@ -1,0 +1,11 @@
+Model Information:
+* title:	Antique Gold Scale
+* source:	https://sketchfab.com/3d-models/antique-gold-scale-410ce0760f284afda9d43b6b5d43e91a
+* author:	conkin (https://sketchfab.com/conkin)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Antique Gold Scale" (https://sketchfab.com/3d-models/antique-gold-scale-410ce0760f284afda9d43b6b5d43e91a) by conkin (https://sketchfab.com/conkin) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

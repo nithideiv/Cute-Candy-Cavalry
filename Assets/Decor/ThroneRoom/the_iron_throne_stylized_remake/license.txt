@@ -1,0 +1,11 @@
+Model Information:
+* title:	The Iron Throne (stylized remake)
+* source:	https://sketchfab.com/3d-models/the-iron-throne-stylized-remake-be5ffb709eb74dfca6f0ea5eb867a95a
+* author:	SlagPerch 3D (https://sketchfab.com/slagperch3d)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "The Iron Throne (stylized remake)" (https://sketchfab.com/3d-models/the-iron-throne-stylized-remake-be5ffb709eb74dfca6f0ea5eb867a95a) by SlagPerch 3D (https://sketchfab.com/slagperch3d) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

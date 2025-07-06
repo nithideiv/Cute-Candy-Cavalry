@@ -1,0 +1,11 @@
+Model Information:
+* title:	Door_ Wooden_18_MB
+* source:	https://sketchfab.com/3d-models/door--wooden-18-mb-d45ad6b63bb14166afa5d3292e8e0862
+* author:	Mehdi Shahsavan (https://sketchfab.com/ahmagh2e)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Door_ Wooden_18_MB" (https://sketchfab.com/3d-models/door--wooden-18-mb-d45ad6b63bb14166afa5d3292e8e0862) by Mehdi Shahsavan (https://sketchfab.com/ahmagh2e) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

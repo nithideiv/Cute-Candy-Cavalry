@@ -1,0 +1,58 @@
+fileFormatVersion: 2
+guid: 9765cea2d6e9faf4d83d765fa4ae7ac0
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: 715df9372183c47e389bb6e19fbc3b52, type: 3}
+  editorImportSettings:
+    generateSecondaryUVSet: 0
+  importSettings:
+    nodeNameMethod: 1
+    animationMethod: 2
+    generateMipMaps: 1
+    texturesReadable: 0
+    defaultMinFilterMode: 9729
+    defaultMagFilterMode: 9729
+    anisotropicFilterLevel: 1
+  instantiationSettings:
+    mask: -1
+    layer: 0
+    skinUpdateWhenOffscreen: 1
+    lightIntensityFactor: 1
+    sceneObjectCreation: 2
+  assetDependencies:
+  - type: 0
+    originalUri: Assets\Decor\AlchemyLabStuff\alchemical_book\scene.bin
+    assetPath: Assets\Decor\AlchemyLabStuff\alchemical_book\scene.bin
+  - type: 1
+    originalUri: Assets\Decor\AlchemyLabStuff\alchemical_book\textures\BookMat_baseColor.png
+    assetPath: Assets\Decor\AlchemyLabStuff\alchemical_book\textures\BookMat_baseColor.png
+  - type: 1
+    originalUri: Assets\Decor\AlchemyLabStuff\alchemical_book\textures\BookMat_metallicRoughness.png
+    assetPath: Assets\Decor\AlchemyLabStuff\alchemical_book\textures\BookMat_metallicRoughness.png
+  - type: 1
+    originalUri: Assets\Decor\AlchemyLabStuff\alchemical_book\textures\BookMat_normal.png
+    assetPath: Assets\Decor\AlchemyLabStuff\alchemical_book\textures\BookMat_normal.png
+  - type: 1
+    originalUri: Assets\Decor\AlchemyLabStuff\alchemical_book\textures\InkMat_baseColor.png
+    assetPath: Assets\Decor\AlchemyLabStuff\alchemical_book\textures\InkMat_baseColor.png
+  - type: 1
+    originalUri: Assets\Decor\AlchemyLabStuff\alchemical_book\textures\InkMat_metallicRoughness.png
+    assetPath: Assets\Decor\AlchemyLabStuff\alchemical_book\textures\InkMat_metallicRoughness.png
+  - type: 1
+    originalUri: Assets\Decor\AlchemyLabStuff\alchemical_book\textures\InkMat_normal.png
+    assetPath: Assets\Decor\AlchemyLabStuff\alchemical_book\textures\InkMat_normal.png
+  - type: 1
+    originalUri: Assets\Decor\AlchemyLabStuff\alchemical_book\textures\PulpitMat_baseColor.png
+    assetPath: Assets\Decor\AlchemyLabStuff\alchemical_book\textures\PulpitMat_baseColor.png
+  - type: 1
+    originalUri: Assets\Decor\AlchemyLabStuff\alchemical_book\textures\PulpitMat_metallicRoughness.png
+    assetPath: Assets\Decor\AlchemyLabStuff\alchemical_book\textures\PulpitMat_metallicRoughness.png
+  - type: 1
+    originalUri: Assets\Decor\AlchemyLabStuff\alchemical_book\textures\PulpitMat_normal.png
+    assetPath: Assets\Decor\AlchemyLabStuff\alchemical_book\textures\PulpitMat_normal.png
+  reportItems: []

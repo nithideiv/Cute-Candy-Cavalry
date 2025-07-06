@@ -1,0 +1,638 @@
+{
+  "accessors": [
+    {
+      "bufferView": 2,
+      "componentType": 5126,
+      "count": 23520,
+      "max": [
+        1.4185343980789185,
+        0.20128685235977173,
+        1.4005059003829956
+      ],
+      "min": [
+        -1.4805347919464111,
+        -8.915792465209961,
+        -1.5152393579483032
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 282240,
+      "componentType": 5126,
+      "count": 23520,
+      "max": [
+        0.9999917149543762,
+        0.9999991655349731,
+        0.9999471306800842
+      ],
+      "min": [
+        -0.9999916553497314,
+        -0.9999991059303284,
+        -0.999973714351654
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 3,
+      "componentType": 5126,
+      "count": 23520,
+      "max": [
+        0.9999815225601196,
+        0.9999839067459106,
+        0.9999977350234985,
+        1.0
+      ],
+      "min": [
+        -0.9999215006828308,
+        -0.9999990463256836,
+        -0.9999885559082031,
+        -1.0
+      ],
+      "type": "VEC4"
+    },
+    {
+      "bufferView": 1,
+      "componentType": 5126,
+      "count": 23520,
+      "max": [
+        0.9941694736480713,
+        0.9986343383789063
+      ],
+      "min": [
+        0.0015426961472257972,
+        0.0013997405767440796
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 188160,
+      "componentType": 5126,
+      "count": 23520,
+      "max": [
+        0.9941694736480713,
+        0.9986343383789063
+      ],
+      "min": [
+        0.0015426961472257972,
+        0.0013997405767440796
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 376320,
+      "componentType": 5126,
+      "count": 23520,
+      "max": [
+        0.9941694736480713,
+        0.9986343383789063
+      ],
+      "min": [
+        0.0015426961472257972,
+        0.0013997405767440796
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "componentType": 5125,
+      "count": 99612,
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 564480,
+      "componentType": 5126,
+      "count": 990,
+      "max": [
+        0.2964943051338196,
+        -7.54094934463501,
+        0.2691081762313843
+      ],
+      "min": [
+        -0.3584369421005249,
+        -8.494324684143066,
+        -0.38305580615997314
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 576360,
+      "componentType": 5126,
+      "count": 990,
+      "max": [
+        0.9998554587364197,
+        0.9992879033088684,
+        0.9964954257011414
+      ],
+      "min": [
+        -0.9970892667770386,
+        -0.9999845027923584,
+        -0.9997146129608154
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 3,
+      "byteOffset": 376320,
+      "componentType": 5126,
+      "count": 990,
+      "max": [
+        0.9998959302902222,
+        0.9999998211860657,
+        0.9885731935501099,
+        1.0
+      ],
+      "min": [
+        -0.9923754334449768,
+        -0.8265087008476257,
+        -0.9793079495429993,
+        1.0
+      ],
+      "type": "VEC4"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 564480,
+      "componentType": 5126,
+      "count": 990,
+      "max": [
+        0.48517853021621704,
+        0.6325180530548096
+      ],
+      "min": [
+        0.0015546857612207532,
+        0.0028072313871234655
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 572400,
+      "componentType": 5126,
+      "count": 990,
+      "max": [
+        0.48517853021621704,
+        0.6325180530548096
+      ],
+      "min": [
+        0.0015546857612207532,
+        0.0028072313871234655
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 580320,
+      "componentType": 5126,
+      "count": 990,
+      "max": [
+        0.48517853021621704,
+        0.6325180530548096
+      ],
+      "min": [
+        0.0015546857612207532,
+        0.0028072313871234655
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 398448,
+      "componentType": 5125,
+      "count": 5064,
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 588240,
+      "componentType": 5126,
+      "count": 8,
+      "max": [
+        1.0,
+        1.076973795890808,
+        0.7406650185585022
+      ],
+      "min": [
+        -1.0,
+        -1.043801188468933,
+        -0.7956348061561584
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 588336,
+      "componentType": 5126,
+      "count": 8,
+      "max": [
+        0.965493381023407,
+        0.2527756989002228,
+        1.0
+      ],
+      "min": [
+        0.0,
+        0.0,
+        0.0626671314239502
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 588240,
+      "componentType": 5126,
+      "count": 8,
+      "max": [
+        1.0,
+        1.0
+      ],
+      "min": [
+        0.0,
+        0.0
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 588304,
+      "componentType": 5126,
+      "count": 8,
+      "max": [
+        1.0,
+        1.0
+      ],
+      "min": [
+        0.0,
+        0.0
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 418704,
+      "componentType": 5125,
+      "count": 12,
+      "type": "SCALAR"
+    }
+  ],
+  "asset": {
+    "extras": {
+      "author": "Glowbox 3D (https://sketchfab.com/glowbox3d)",
+      "license": "CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)",
+      "source": "https://sketchfab.com/3d-models/iron-hanging-candle-cage-fca5443b2fb741218dfcce97ce6f0561",
+      "title": "Iron Hanging Candle Cage 🕯️"
+    },
+    "generator": "Sketchfab-15.55.0",
+    "version": "2.0"
+  },
+  "bufferViews": [
+    {
+      "buffer": 0,
+      "byteLength": 418752,
+      "name": "floatBufferViews",
+      "target": 34963
+    },
+    {
+      "buffer": 0,
+      "byteLength": 588368,
+      "byteOffset": 418752,
+      "byteStride": 8,
+      "name": "floatBufferViews",
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 588432,
+      "byteOffset": 1007120,
+      "byteStride": 12,
+      "name": "floatBufferViews",
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 392160,
+      "byteOffset": 1595552,
+      "byteStride": 16,
+      "name": "floatBufferViews",
+      "target": 34962
+    }
+  ],
+  "buffers": [
+    {
+      "byteLength": 1987712,
+      "uri": "scene.bin"
+    }
+  ],
+  "extensionsUsed": [
+    "KHR_materials_emissive_strength"
+  ],
+  "images": [
+    {
+      "uri": "textures/CageChainRope_baseColor.png"
+    },
+    {
+      "uri": "textures/CageChainRope_metallicRoughness.png"
+    },
+    {
+      "uri": "textures/CageChainRope_normal.png"
+    },
+    {
+      "uri": "textures/Candle_baseColor.png"
+    },
+    {
+      "uri": "textures/Candle_metallicRoughness.png"
+    },
+    {
+      "uri": "textures/Candle_normal.png"
+    },
+    {
+      "uri": "textures/Flame_Texture_baseColor.png"
+    },
+    {
+      "uri": "textures/Flame_Texture_emissive.png"
+    }
+  ],
+  "materials": [
+    {
+      "doubleSided": true,
+      "name": "CageChainRope",
+      "normalTexture": {
+        "index": 2
+      },
+      "pbrMetallicRoughness": {
+        "baseColorTexture": {
+          "index": 0
+        },
+        "metallicRoughnessTexture": {
+          "index": 1
+        }
+      }
+    },
+    {
+      "doubleSided": true,
+      "name": "Candle",
+      "normalTexture": {
+        "index": 5
+      },
+      "pbrMetallicRoughness": {
+        "baseColorTexture": {
+          "index": 3
+        },
+        "metallicRoughnessTexture": {
+          "index": 4
+        }
+      }
+    },
+    {
+      "alphaCutoff": 1.0,
+      "alphaMode": "MASK",
+      "doubleSided": true,
+      "emissiveFactor": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "emissiveTexture": {
+        "index": 7
+      },
+      "extensions": {
+        "KHR_materials_emissive_strength": {
+          "emissiveStrength": 5.2266825956041005
+        }
+      },
+      "name": "Flame_Texture",
+      "pbrMetallicRoughness": {
+        "baseColorTexture": {
+          "index": 6
+        },
+        "metallicFactor": 0.0
+      }
+    }
+  ],
+  "meshes": [
+    {
+      "name": "BezierCurve.002_CageChainRope_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 1,
+            "POSITION": 0,
+            "TANGENT": 2,
+            "TEXCOORD_0": 3,
+            "TEXCOORD_1": 4,
+            "TEXCOORD_2": 5
+          },
+          "indices": 6,
+          "material": 0,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "BezierCurve.002_Candle_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 8,
+            "POSITION": 7,
+            "TANGENT": 9,
+            "TEXCOORD_0": 10,
+            "TEXCOORD_1": 11,
+            "TEXCOORD_2": 12
+          },
+          "indices": 13,
+          "material": 1,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "Flame Mesh_Flame Texture_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 15,
+            "POSITION": 14,
+            "TEXCOORD_0": 16,
+            "TEXCOORD_1": 17
+          },
+          "indices": 18,
+          "material": 2,
+          "mode": 4
+        }
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "children": [
+        1
+      ],
+      "matrix": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        2.220446049250313e-16,
+        -1.0,
+        0.0,
+        0.0,
+        1.0,
+        2.220446049250313e-16,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "name": "Sketchfab_model"
+    },
+    {
+      "children": [
+        2
+      ],
+      "matrix": [
+        0.009999999776482582,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.009999999776482582,
+        0.0,
+        0.0,
+        -0.009999999776482582,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "name": "555ce243699d4aa5b0b7a42b111155ab.fbx"
+    },
+    {
+      "children": [
+        3,
+        6
+      ],
+      "name": "RootNode"
+    },
+    {
+      "children": [
+        4,
+        5
+      ],
+      "matrix": [
+        62.3839892433682,
+        -3.258413357666935e-05,
+        78.15522638929033,
+        0.0,
+        1.9395285999507964e-05,
+        99.99999999999469,
+        2.6210122331398034e-05,
+        0.0,
+        -78.15522638929473,
+        -1.1924902141272128e-06,
+        62.3839892433712,
+        0.0,
+        -3.068753480911255,
+        848.0824584960938,
+        6.645992279052734,
+        1.0
+      ],
+      "name": "BezierCurve.002"
+    },
+    {
+      "mesh": 0,
+      "name": "BezierCurve.002_CageChainRope_0"
+    },
+    {
+      "mesh": 1,
+      "name": "BezierCurve.002_Candle_0"
+    },
+    {
+      "children": [
+        7
+      ],
+      "matrix": [
+        -0.10687919025735305,
+        -1.0642870511796283,
+        -9.530161217839764,
+        0.0,
+        -0.16183350476736277,
+        14.966687099170873,
+        -1.6695997350992808,
+        0.0,
+        15.058590320924116,
+        0.1422162656728884,
+        -0.18476170861036764,
+        0.0,
+        1.6400694847106934,
+        94.31195068359375,
+        3.225564956665039,
+        1.0
+      ],
+      "name": "Flame Mesh"
+    },
+    {
+      "mesh": 2,
+      "name": "Flame Mesh_Flame Texture_0"
+    }
+  ],
+  "samplers": [
+    {
+      "magFilter": 9729,
+      "minFilter": 9987,
+      "wrapS": 10497,
+      "wrapT": 10497
+    }
+  ],
+  "scene": 0,
+  "scenes": [
+    {
+      "name": "Sketchfab_Scene",
+      "nodes": [
+        0
+      ]
+    }
+  ],
+  "textures": [
+    {
+      "sampler": 0,
+      "source": 0
+    },
+    {
+      "sampler": 0,
+      "source": 1
+    },
+    {
+      "sampler": 0,
+      "source": 2
+    },
+    {
+      "sampler": 0,
+      "source": 3
+    },
+    {
+      "sampler": 0,
+      "source": 4
+    },
+    {
+      "sampler": 0,
+      "source": 5
+    },
+    {
+      "sampler": 0,
+      "source": 6
+    },
+    {
+      "sampler": 0,
+      "source": 7
+    }
+  ]
+}

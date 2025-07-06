@@ -1,0 +1,11 @@
+Model Information:
+* title:	Longevity
+* source:	https://sketchfab.com/3d-models/longevity-23d622e4e2544b1897fda3d06ce0d32d
+* author:	T.Koeniger (https://sketchfab.com/3D-hannover)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Longevity" (https://sketchfab.com/3d-models/longevity-23d622e4e2544b1897fda3d06ce0d32d) by T.Koeniger (https://sketchfab.com/3D-hannover) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

@@ -1,0 +1,11 @@
+Model Information:
+* title:	Astronomic Map
+* source:	https://sketchfab.com/3d-models/astronomic-map-7baae153c17b4985a7280a04829f8c31
+* author:	Zgon (https://sketchfab.com/Z-gon)
+
+Model License:
+* license type:	CC-BY-ND-4.0 (http://creativecommons.org/licenses/by-nd/4.0/)
+* requirements:	Author must be credited. Modified versions can not be distributed. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Astronomic Map" (https://sketchfab.com/3d-models/astronomic-map-7baae153c17b4985a7280a04829f8c31) by Zgon (https://sketchfab.com/Z-gon) licensed under CC-BY-ND-4.0 (http://creativecommons.org/licenses/by-nd/4.0/)

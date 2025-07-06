@@ -1,0 +1,11 @@
+Model Information:
+* title:	Old Portrait of Witch
+* source:	https://sketchfab.com/3d-models/old-portrait-of-witch-d794819d83594c4eb069ca31d4f214b4
+* author:	Anskar (https://sketchfab.com/Anskar)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Old Portrait of Witch" (https://sketchfab.com/3d-models/old-portrait-of-witch-d794819d83594c4eb069ca31d4f214b4) by Anskar (https://sketchfab.com/Anskar) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

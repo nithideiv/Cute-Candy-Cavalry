@@ -1,0 +1,67 @@
+fileFormatVersion: 2
+guid: 164387920f859b2468d1db442fd8244d
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: 715df9372183c47e389bb6e19fbc3b52, type: 3}
+  editorImportSettings:
+    generateSecondaryUVSet: 0
+  importSettings:
+    nodeNameMethod: 1
+    animationMethod: 2
+    generateMipMaps: 1
+    texturesReadable: 0
+    defaultMinFilterMode: 9729
+    defaultMagFilterMode: 9729
+    anisotropicFilterLevel: 1
+  instantiationSettings:
+    mask: -1
+    layer: 0
+    skinUpdateWhenOffscreen: 1
+    lightIntensityFactor: 1
+    sceneObjectCreation: 2
+  assetDependencies:
+  - type: 0
+    originalUri: Assets\Decor\AstronomyRoom\the_telescope_of_dreams\scene.bin
+    assetPath: Assets\Decor\AstronomyRoom\the_telescope_of_dreams\scene.bin
+  - type: 1
+    originalUri: Assets\Decor\AstronomyRoom\the_telescope_of_dreams\textures\Gold_baseColor.png
+    assetPath: Assets\Decor\AstronomyRoom\the_telescope_of_dreams\textures\Gold_baseColor.png
+  - type: 1
+    originalUri: Assets\Decor\AstronomyRoom\the_telescope_of_dreams\textures\Gold_metallicRoughness.png
+    assetPath: Assets\Decor\AstronomyRoom\the_telescope_of_dreams\textures\Gold_metallicRoughness.png
+  - type: 1
+    originalUri: Assets\Decor\AstronomyRoom\the_telescope_of_dreams\textures\Gold_normal.png
+    assetPath: Assets\Decor\AstronomyRoom\the_telescope_of_dreams\textures\Gold_normal.png
+  - type: 1
+    originalUri: Assets\Decor\AstronomyRoom\the_telescope_of_dreams\textures\Wood_baseColor.png
+    assetPath: Assets\Decor\AstronomyRoom\the_telescope_of_dreams\textures\Wood_baseColor.png
+  - type: 1
+    originalUri: Assets\Decor\AstronomyRoom\the_telescope_of_dreams\textures\Wood_metallicRoughness.png
+    assetPath: Assets\Decor\AstronomyRoom\the_telescope_of_dreams\textures\Wood_metallicRoughness.png
+  - type: 1
+    originalUri: Assets\Decor\AstronomyRoom\the_telescope_of_dreams\textures\Wood_normal.png
+    assetPath: Assets\Decor\AstronomyRoom\the_telescope_of_dreams\textures\Wood_normal.png
+  - type: 1
+    originalUri: Assets\Decor\AstronomyRoom\the_telescope_of_dreams\textures\glass_baseColor.png
+    assetPath: Assets\Decor\AstronomyRoom\the_telescope_of_dreams\textures\glass_baseColor.png
+  - type: 1
+    originalUri: Assets\Decor\AstronomyRoom\the_telescope_of_dreams\textures\glass_metallicRoughness.png
+    assetPath: Assets\Decor\AstronomyRoom\the_telescope_of_dreams\textures\glass_metallicRoughness.png
+  - type: 1
+    originalUri: Assets\Decor\AstronomyRoom\the_telescope_of_dreams\textures\glass_normal.png
+    assetPath: Assets\Decor\AstronomyRoom\the_telescope_of_dreams\textures\glass_normal.png
+  - type: 1
+    originalUri: Assets\Decor\AstronomyRoom\the_telescope_of_dreams\textures\lambert1_baseColor.png
+    assetPath: Assets\Decor\AstronomyRoom\the_telescope_of_dreams\textures\lambert1_baseColor.png
+  - type: 1
+    originalUri: Assets\Decor\AstronomyRoom\the_telescope_of_dreams\textures\lambert1_metallicRoughness.png
+    assetPath: Assets\Decor\AstronomyRoom\the_telescope_of_dreams\textures\lambert1_metallicRoughness.png
+  - type: 1
+    originalUri: Assets\Decor\AstronomyRoom\the_telescope_of_dreams\textures\lambert1_normal.png
+    assetPath: Assets\Decor\AstronomyRoom\the_telescope_of_dreams\textures\lambert1_normal.png
+  reportItems: []

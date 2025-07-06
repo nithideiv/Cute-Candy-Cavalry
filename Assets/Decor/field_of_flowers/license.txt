@@ -1,0 +1,11 @@
+Model Information:
+* title:	Field Of Flowers
+* source:	https://sketchfab.com/3d-models/field-of-flowers-2ffde33617984042907fc5a4cc3b0f87
+* author:	GremorySaiyan (https://sketchfab.com/GremorySaiyan)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Field Of Flowers" (https://sketchfab.com/3d-models/field-of-flowers-2ffde33617984042907fc5a4cc3b0f87) by GremorySaiyan (https://sketchfab.com/GremorySaiyan) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

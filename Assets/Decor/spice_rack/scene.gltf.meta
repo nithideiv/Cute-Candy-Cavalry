@@ -1,0 +1,109 @@
+fileFormatVersion: 2
+guid: ed0925a1bdbc61a48afa8447546b97e3
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: 715df9372183c47e389bb6e19fbc3b52, type: 3}
+  editorImportSettings:
+    generateSecondaryUVSet: 0
+  importSettings:
+    nodeNameMethod: 1
+    animationMethod: 2
+    generateMipMaps: 1
+    texturesReadable: 0
+    defaultMinFilterMode: 9729
+    defaultMagFilterMode: 9729
+    anisotropicFilterLevel: 1
+  instantiationSettings:
+    mask: -1
+    layer: 0
+    skinUpdateWhenOffscreen: 1
+    lightIntensityFactor: 1
+    sceneObjectCreation: 2
+  assetDependencies:
+  - type: 0
+    originalUri: Assets\Sandboxes\Lily\spice_rack\scene.bin
+    assetPath: Assets\Sandboxes\Lily\spice_rack\scene.bin
+  - type: 1
+    originalUri: Assets\Sandboxes\Lily\spice_rack\textures\m_paintedwood_baseColor.png
+    assetPath: Assets\Sandboxes\Lily\spice_rack\textures\m_paintedwood_baseColor.png
+  - type: 1
+    originalUri: Assets\Sandboxes\Lily\spice_rack\textures\m_paintedwood_metallicRoughness.png
+    assetPath: Assets\Sandboxes\Lily\spice_rack\textures\m_paintedwood_metallicRoughness.png
+  - type: 1
+    originalUri: Assets\Sandboxes\Lily\spice_rack\textures\m_paintedwood_normal.png
+    assetPath: Assets\Sandboxes\Lily\spice_rack\textures\m_paintedwood_normal.png
+  - type: 1
+    originalUri: Assets\Sandboxes\Lily\spice_rack\textures\m_metal_baseColor.png
+    assetPath: Assets\Sandboxes\Lily\spice_rack\textures\m_metal_baseColor.png
+  - type: 1
+    originalUri: Assets\Sandboxes\Lily\spice_rack\textures\m_metal_metallicRoughness.png
+    assetPath: Assets\Sandboxes\Lily\spice_rack\textures\m_metal_metallicRoughness.png
+  - type: 1
+    originalUri: Assets\Sandboxes\Lily\spice_rack\textures\m_label_baseColor.png
+    assetPath: Assets\Sandboxes\Lily\spice_rack\textures\m_label_baseColor.png
+  - type: 1
+    originalUri: Assets\Sandboxes\Lily\spice_rack\textures\m_cork_baseColor.png
+    assetPath: Assets\Sandboxes\Lily\spice_rack\textures\m_cork_baseColor.png
+  - type: 1
+    originalUri: Assets\Sandboxes\Lily\spice_rack\textures\m_cork_normal.png
+    assetPath: Assets\Sandboxes\Lily\spice_rack\textures\m_cork_normal.png
+  - type: 1
+    originalUri: Assets\Sandboxes\Lily\spice_rack\textures\m_orange_baseColor.jpeg
+    assetPath: Assets\Sandboxes\Lily\spice_rack\textures\m_orange_baseColor.jpeg
+  - type: 1
+    originalUri: Assets\Sandboxes\Lily\spice_rack\textures\m_orange_normal.png
+    assetPath: Assets\Sandboxes\Lily\spice_rack\textures\m_orange_normal.png
+  - type: 1
+    originalUri: Assets\Sandboxes\Lily\spice_rack\textures\m_salt_baseColor.jpeg
+    assetPath: Assets\Sandboxes\Lily\spice_rack\textures\m_salt_baseColor.jpeg
+  - type: 1
+    originalUri: Assets\Sandboxes\Lily\spice_rack\textures\m_salt_normal.png
+    assetPath: Assets\Sandboxes\Lily\spice_rack\textures\m_salt_normal.png
+  - type: 1
+    originalUri: Assets\Sandboxes\Lily\spice_rack\textures\m_oregano_baseColor.jpeg
+    assetPath: Assets\Sandboxes\Lily\spice_rack\textures\m_oregano_baseColor.jpeg
+  - type: 1
+    originalUri: Assets\Sandboxes\Lily\spice_rack\textures\m_oregano_normal.png
+    assetPath: Assets\Sandboxes\Lily\spice_rack\textures\m_oregano_normal.png
+  - type: 1
+    originalUri: Assets\Sandboxes\Lily\spice_rack\textures\m_yellowpowder_baseColor.jpeg
+    assetPath: Assets\Sandboxes\Lily\spice_rack\textures\m_yellowpowder_baseColor.jpeg
+  - type: 1
+    originalUri: Assets\Sandboxes\Lily\spice_rack\textures\m_yellowpowder_normal.png
+    assetPath: Assets\Sandboxes\Lily\spice_rack\textures\m_yellowpowder_normal.png
+  - type: 1
+    originalUri: Assets\Sandboxes\Lily\spice_rack\textures\m_pinksalt_baseColor.png
+    assetPath: Assets\Sandboxes\Lily\spice_rack\textures\m_pinksalt_baseColor.png
+  - type: 1
+    originalUri: Assets\Sandboxes\Lily\spice_rack\textures\m_pinksalt_normal.png
+    assetPath: Assets\Sandboxes\Lily\spice_rack\textures\m_pinksalt_normal.png
+  - type: 1
+    originalUri: Assets\Sandboxes\Lily\spice_rack\textures\m_tea_baseColor.png
+    assetPath: Assets\Sandboxes\Lily\spice_rack\textures\m_tea_baseColor.png
+  - type: 1
+    originalUri: Assets\Sandboxes\Lily\spice_rack\textures\m_tea_normal.png
+    assetPath: Assets\Sandboxes\Lily\spice_rack\textures\m_tea_normal.png
+  - type: 1
+    originalUri: Assets\Sandboxes\Lily\spice_rack\textures\m_redpepper_baseColor.jpeg
+    assetPath: Assets\Sandboxes\Lily\spice_rack\textures\m_redpepper_baseColor.jpeg
+  - type: 1
+    originalUri: Assets\Sandboxes\Lily\spice_rack\textures\m_redpepper_normal.png
+    assetPath: Assets\Sandboxes\Lily\spice_rack\textures\m_redpepper_normal.png
+  - type: 1
+    originalUri: Assets\Sandboxes\Lily\spice_rack\textures\m_fennel_baseColor.jpeg
+    assetPath: Assets\Sandboxes\Lily\spice_rack\textures\m_fennel_baseColor.jpeg
+  - type: 1
+    originalUri: Assets\Sandboxes\Lily\spice_rack\textures\m_fennel_normal.png
+    assetPath: Assets\Sandboxes\Lily\spice_rack\textures\m_fennel_normal.png
+  - type: 1
+    originalUri: Assets\Sandboxes\Lily\spice_rack\textures\m_string_baseColor.png
+    assetPath: Assets\Sandboxes\Lily\spice_rack\textures\m_string_baseColor.png
+  - type: 1
+    originalUri: Assets\Sandboxes\Lily\spice_rack\textures\m_string_normal.png
+    assetPath: Assets\Sandboxes\Lily\spice_rack\textures\m_string_normal.png
+  reportItems: []

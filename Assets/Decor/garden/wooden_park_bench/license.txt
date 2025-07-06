@@ -1,0 +1,11 @@
+Model Information:
+* title:	Wooden Park Bench
+* source:	https://sketchfab.com/3d-models/wooden-park-bench-e53ad46c604c44e59a98bad27041cb19
+* author:	TheMadraver (https://sketchfab.com/TheMadraver)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Wooden Park Bench" (https://sketchfab.com/3d-models/wooden-park-bench-e53ad46c604c44e59a98bad27041cb19) by TheMadraver (https://sketchfab.com/TheMadraver) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

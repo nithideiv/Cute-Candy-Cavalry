@@ -1,0 +1,11 @@
+Model Information:
+* title:	Skeletons
+* source:	https://sketchfab.com/3d-models/skeletons-a271192a8b2a4cf4a4bf7c9f9a3eddbc
+* author:	DDFun (https://sketchfab.com/DDFun)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Skeletons" (https://sketchfab.com/3d-models/skeletons-a271192a8b2a4cf4a4bf7c9f9a3eddbc) by DDFun (https://sketchfab.com/DDFun) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

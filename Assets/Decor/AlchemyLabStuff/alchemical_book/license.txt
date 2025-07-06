@@ -1,0 +1,11 @@
+Model Information:
+* title:	Alchemical book
+* source:	https://sketchfab.com/3d-models/alchemical-book-25ea2f17700e4f1ab9dc38b3fcaaba0b
+* author:	Arte Hexe (https://sketchfab.com/illusive_skarwing)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Alchemical book" (https://sketchfab.com/3d-models/alchemical-book-25ea2f17700e4f1ab9dc38b3fcaaba0b) by Arte Hexe (https://sketchfab.com/illusive_skarwing) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

@@ -1,0 +1,11 @@
+Model Information:
+* title:	Old Stone Tile (With Displacement)
+* source:	https://sketchfab.com/3d-models/old-stone-tile-with-displacement-d2ab8669d0d346eda44fa35d793bdc81
+* author:	lumoize (https://sketchfab.com/lumoize)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Old Stone Tile (With Displacement)" (https://sketchfab.com/3d-models/old-stone-tile-with-displacement-d2ab8669d0d346eda44fa35d793bdc81) by lumoize (https://sketchfab.com/lumoize) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

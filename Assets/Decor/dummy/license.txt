@@ -1,0 +1,11 @@
+Model Information:
+* title:	Dummy
+* source:	https://sketchfab.com/3d-models/dummy-f0cdcbaf4e904832b7489f6106418f26
+* author:	fly4xy (https://sketchfab.com/4xy)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Dummy" (https://sketchfab.com/3d-models/dummy-f0cdcbaf4e904832b7489f6106418f26) by fly4xy (https://sketchfab.com/4xy) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

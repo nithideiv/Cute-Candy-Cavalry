@@ -1,0 +1,11 @@
+Model Information:
+* title:	Occult books
+* source:	https://sketchfab.com/3d-models/occult-books-e2c8d4fc5ad04f258fe679861172ca85
+* author:	athanaso (https://sketchfab.com/athanaso)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Occult books" (https://sketchfab.com/3d-models/occult-books-e2c8d4fc5ad04f258fe679861172ca85) by athanaso (https://sketchfab.com/athanaso) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

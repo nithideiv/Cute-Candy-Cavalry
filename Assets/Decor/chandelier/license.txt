@@ -1,0 +1,11 @@
+Model Information:
+* title:	Chandelier
+* source:	https://sketchfab.com/3d-models/chandelier-1c8a5e7069294d3e8bd9c96a4dffca62
+* author:	Dillus (https://sketchfab.com/Dillus)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Chandelier" (https://sketchfab.com/3d-models/chandelier-1c8a5e7069294d3e8bd9c96a4dffca62) by Dillus (https://sketchfab.com/Dillus) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

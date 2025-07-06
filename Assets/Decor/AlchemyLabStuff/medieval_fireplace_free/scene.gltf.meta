@@ -1,0 +1,103 @@
+fileFormatVersion: 2
+guid: ea2a847673aef0043b9814602fb5085c
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: 715df9372183c47e389bb6e19fbc3b52, type: 3}
+  editorImportSettings:
+    generateSecondaryUVSet: 0
+  importSettings:
+    nodeNameMethod: 1
+    animationMethod: 2
+    generateMipMaps: 1
+    texturesReadable: 0
+    defaultMinFilterMode: 9729
+    defaultMagFilterMode: 9729
+    anisotropicFilterLevel: 1
+  instantiationSettings:
+    mask: -1
+    layer: 0
+    skinUpdateWhenOffscreen: 1
+    lightIntensityFactor: 1
+    sceneObjectCreation: 2
+  assetDependencies:
+  - type: 0
+    originalUri: Assets\Decor\AlchemyLabStuff\medieval_fireplace_free\scene.bin
+    assetPath: Assets\Decor\AlchemyLabStuff\medieval_fireplace_free\scene.bin
+  - type: 1
+    originalUri: Assets\Decor\AlchemyLabStuff\medieval_fireplace_free\textures\FirePlaceArches_baseColor.png
+    assetPath: Assets\Decor\AlchemyLabStuff\medieval_fireplace_free\textures\FirePlaceArches_baseColor.png
+  - type: 1
+    originalUri: Assets\Decor\AlchemyLabStuff\medieval_fireplace_free\textures\FirePlaceArches_metallicRoughness.png
+    assetPath: Assets\Decor\AlchemyLabStuff\medieval_fireplace_free\textures\FirePlaceArches_metallicRoughness.png
+  - type: 1
+    originalUri: Assets\Decor\AlchemyLabStuff\medieval_fireplace_free\textures\FirePlaceArches_normal.png
+    assetPath: Assets\Decor\AlchemyLabStuff\medieval_fireplace_free\textures\FirePlaceArches_normal.png
+  - type: 1
+    originalUri: Assets\Decor\AlchemyLabStuff\medieval_fireplace_free\textures\FirePlaceAshes_baseColor.png
+    assetPath: Assets\Decor\AlchemyLabStuff\medieval_fireplace_free\textures\FirePlaceAshes_baseColor.png
+  - type: 1
+    originalUri: Assets\Decor\AlchemyLabStuff\medieval_fireplace_free\textures\FirePlaceAshes_metallicRoughness.png
+    assetPath: Assets\Decor\AlchemyLabStuff\medieval_fireplace_free\textures\FirePlaceAshes_metallicRoughness.png
+  - type: 1
+    originalUri: Assets\Decor\AlchemyLabStuff\medieval_fireplace_free\textures\FirePlaceAshes_normal.png
+    assetPath: Assets\Decor\AlchemyLabStuff\medieval_fireplace_free\textures\FirePlaceAshes_normal.png
+  - type: 1
+    originalUri: Assets\Decor\AlchemyLabStuff\medieval_fireplace_free\textures\FirePlaceBottomSection_baseColor.png
+    assetPath: Assets\Decor\AlchemyLabStuff\medieval_fireplace_free\textures\FirePlaceBottomSection_baseColor.png
+  - type: 1
+    originalUri: Assets\Decor\AlchemyLabStuff\medieval_fireplace_free\textures\FirePlaceBottomSection_metallicRoughness.png
+    assetPath: Assets\Decor\AlchemyLabStuff\medieval_fireplace_free\textures\FirePlaceBottomSection_metallicRoughness.png
+  - type: 1
+    originalUri: Assets\Decor\AlchemyLabStuff\medieval_fireplace_free\textures\FirePlaceBottomSection_normal.png
+    assetPath: Assets\Decor\AlchemyLabStuff\medieval_fireplace_free\textures\FirePlaceBottomSection_normal.png
+  - type: 1
+    originalUri: Assets\Decor\AlchemyLabStuff\medieval_fireplace_free\textures\FirePlaceLogs_baseColor.png
+    assetPath: Assets\Decor\AlchemyLabStuff\medieval_fireplace_free\textures\FirePlaceLogs_baseColor.png
+  - type: 1
+    originalUri: Assets\Decor\AlchemyLabStuff\medieval_fireplace_free\textures\FirePlaceLogs_metallicRoughness.png
+    assetPath: Assets\Decor\AlchemyLabStuff\medieval_fireplace_free\textures\FirePlaceLogs_metallicRoughness.png
+  - type: 1
+    originalUri: Assets\Decor\AlchemyLabStuff\medieval_fireplace_free\textures\FirePlaceLogs_normal.png
+    assetPath: Assets\Decor\AlchemyLabStuff\medieval_fireplace_free\textures\FirePlaceLogs_normal.png
+  - type: 1
+    originalUri: Assets\Decor\AlchemyLabStuff\medieval_fireplace_free\textures\FirePlaceLowerSection_baseColor.png
+    assetPath: Assets\Decor\AlchemyLabStuff\medieval_fireplace_free\textures\FirePlaceLowerSection_baseColor.png
+  - type: 1
+    originalUri: Assets\Decor\AlchemyLabStuff\medieval_fireplace_free\textures\FirePlaceLowerSection_metallicRoughness.png
+    assetPath: Assets\Decor\AlchemyLabStuff\medieval_fireplace_free\textures\FirePlaceLowerSection_metallicRoughness.png
+  - type: 1
+    originalUri: Assets\Decor\AlchemyLabStuff\medieval_fireplace_free\textures\FirePlaceLowerSection_normal.png
+    assetPath: Assets\Decor\AlchemyLabStuff\medieval_fireplace_free\textures\FirePlaceLowerSection_normal.png
+  - type: 1
+    originalUri: Assets\Decor\AlchemyLabStuff\medieval_fireplace_free\textures\FirePlaceMiddleSection_baseColor.png
+    assetPath: Assets\Decor\AlchemyLabStuff\medieval_fireplace_free\textures\FirePlaceMiddleSection_baseColor.png
+  - type: 1
+    originalUri: Assets\Decor\AlchemyLabStuff\medieval_fireplace_free\textures\FirePlaceMiddleSection_metallicRoughness.png
+    assetPath: Assets\Decor\AlchemyLabStuff\medieval_fireplace_free\textures\FirePlaceMiddleSection_metallicRoughness.png
+  - type: 1
+    originalUri: Assets\Decor\AlchemyLabStuff\medieval_fireplace_free\textures\FirePlaceMiddleSection_normal.png
+    assetPath: Assets\Decor\AlchemyLabStuff\medieval_fireplace_free\textures\FirePlaceMiddleSection_normal.png
+  - type: 1
+    originalUri: Assets\Decor\AlchemyLabStuff\medieval_fireplace_free\textures\FirePlaceRack_baseColor.png
+    assetPath: Assets\Decor\AlchemyLabStuff\medieval_fireplace_free\textures\FirePlaceRack_baseColor.png
+  - type: 1
+    originalUri: Assets\Decor\AlchemyLabStuff\medieval_fireplace_free\textures\FirePlaceRack_metallicRoughness.png
+    assetPath: Assets\Decor\AlchemyLabStuff\medieval_fireplace_free\textures\FirePlaceRack_metallicRoughness.png
+  - type: 1
+    originalUri: Assets\Decor\AlchemyLabStuff\medieval_fireplace_free\textures\FirePlaceRack_normal.png
+    assetPath: Assets\Decor\AlchemyLabStuff\medieval_fireplace_free\textures\FirePlaceRack_normal.png
+  - type: 1
+    originalUri: Assets\Decor\AlchemyLabStuff\medieval_fireplace_free\textures\FirePlaceTopSection_baseColor.png
+    assetPath: Assets\Decor\AlchemyLabStuff\medieval_fireplace_free\textures\FirePlaceTopSection_baseColor.png
+  - type: 1
+    originalUri: Assets\Decor\AlchemyLabStuff\medieval_fireplace_free\textures\FirePlaceTopSection_metallicRoughness.png
+    assetPath: Assets\Decor\AlchemyLabStuff\medieval_fireplace_free\textures\FirePlaceTopSection_metallicRoughness.png
+  - type: 1
+    originalUri: Assets\Decor\AlchemyLabStuff\medieval_fireplace_free\textures\FirePlaceTopSection_normal.png
+    assetPath: Assets\Decor\AlchemyLabStuff\medieval_fireplace_free\textures\FirePlaceTopSection_normal.png
+  reportItems: []

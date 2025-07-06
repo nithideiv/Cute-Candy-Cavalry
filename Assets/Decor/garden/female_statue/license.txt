@@ -1,0 +1,11 @@
+Model Information:
+* title:	Female Statue
+* source:	https://sketchfab.com/3d-models/female-statue-b888312d06924e5b9aef6192d7c8d4a4
+* author:	Global Digital Heritage and GDH-Afrika (https://sketchfab.com/GlobalDigitalHeritage)
+
+Model License:
+* license type:	CC-BY-NC-4.0 (http://creativecommons.org/licenses/by-nc/4.0/)
+* requirements:	Author must be credited. No commercial use.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Female Statue" (https://sketchfab.com/3d-models/female-statue-b888312d06924e5b9aef6192d7c8d4a4) by Global Digital Heritage and GDH-Afrika (https://sketchfab.com/GlobalDigitalHeritage) licensed under CC-BY-NC-4.0 (http://creativecommons.org/licenses/by-nc/4.0/)

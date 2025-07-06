@@ -1,0 +1,11 @@
+Model Information:
+* title:	Lothric Banner
+* source:	https://sketchfab.com/3d-models/lothric-banner-3ba52b4c87964404b6ab2634f9de4fc1
+* author:	Ethan Donovan (https://sketchfab.com/edonovan)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Lothric Banner" (https://sketchfab.com/3d-models/lothric-banner-3ba52b4c87964404b6ab2634f9de4fc1) by Ethan Donovan (https://sketchfab.com/edonovan) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

@@ -1,0 +1,11 @@
+Model Information:
+* title:	CC0 - Candies
+* source:	https://sketchfab.com/3d-models/cc0-candies-8dd602aff1204c548105462cccd492d6
+* author:	plaggy (https://sketchfab.com/plaggy)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "CC0 - Candies" (https://sketchfab.com/3d-models/cc0-candies-8dd602aff1204c548105462cccd492d6) by plaggy (https://sketchfab.com/plaggy) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

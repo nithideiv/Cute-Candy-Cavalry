@@ -1,0 +1,11 @@
+Model Information:
+* title:	The telescope of dreams
+* source:	https://sketchfab.com/3d-models/the-telescope-of-dreams-1ce1d30921b54665a712dc0b97e99524
+* author:	Reu (https://sketchfab.com/Speareu)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "The telescope of dreams" (https://sketchfab.com/3d-models/the-telescope-of-dreams-1ce1d30921b54665a712dc0b97e99524) by Reu (https://sketchfab.com/Speareu) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
