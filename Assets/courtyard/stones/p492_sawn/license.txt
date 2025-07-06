@@ -1,0 +1,11 @@
+Model Information:
+* title:	P492 Sawn
+* source:	https://sketchfab.com/3d-models/p492-sawn-76561cdd699144168dc475c5e61ab454
+* author:	STONE CURATORS (https://sketchfab.com/stonecurators)
+
+Model License:
+* license type:	CC-BY-NC-SA-4.0 (http://creativecommons.org/licenses/by-nc-sa/4.0/)
+* requirements:	Author must be credited. No commercial use. Modified versions must have the same license.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "P492 Sawn" (https://sketchfab.com/3d-models/p492-sawn-76561cdd699144168dc475c5e61ab454) by STONE CURATORS (https://sketchfab.com/stonecurators) licensed under CC-BY-NC-SA-4.0 (http://creativecommons.org/licenses/by-nc-sa/4.0/)
