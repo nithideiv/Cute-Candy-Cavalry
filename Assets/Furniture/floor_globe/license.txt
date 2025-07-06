@@ -1,0 +1,11 @@
+Model Information:
+* title:	Floor Globe
+* source:	https://sketchfab.com/3d-models/floor-globe-0318ad51a7294885b452ff4f408353ba
+* author:	SneakyMrRed (https://sketchfab.com/SneakyMrRed)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Floor Globe" (https://sketchfab.com/3d-models/floor-globe-0318ad51a7294885b452ff4f408353ba) by SneakyMrRed (https://sketchfab.com/SneakyMrRed) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

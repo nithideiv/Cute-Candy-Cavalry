@@ -1,0 +1,11 @@
+Model Information:
+* title:	Game Ready Rustic Table
+* source:	https://sketchfab.com/3d-models/game-ready-rustic-table-62ec03b835db4fb2a049d8e31a6d2565
+* author:	OmegaRedZA (https://sketchfab.com/OmegaRedZA)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Game Ready Rustic Table" (https://sketchfab.com/3d-models/game-ready-rustic-table-62ec03b835db4fb2a049d8e31a6d2565) by OmegaRedZA (https://sketchfab.com/OmegaRedZA) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

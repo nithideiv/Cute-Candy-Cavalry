@@ -1,0 +1,558 @@
+{
+  "accessors": [
+    {
+      "bufferView": 2,
+      "componentType": 5126,
+      "count": 1390,
+      "max": [
+        3.976790189743042,
+        -0.18147695064544678,
+        2.9672915935516357
+      ],
+      "min": [
+        -3.9793291091918945,
+        -1.1116360425949097,
+        0.7107409834861755
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 16680,
+      "componentType": 5126,
+      "count": 1390,
+      "max": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "min": [
+        -1.0,
+        -1.0,
+        -1.0
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 3,
+      "componentType": 5126,
+      "count": 1390,
+      "max": [
+        0.9999997615814209,
+        1.0,
+        0.9794328212738037,
+        1.0
+      ],
+      "min": [
+        -1.0,
+        -0.9999921321868896,
+        -0.9997430443763733,
+        1.0
+      ],
+      "type": "VEC4"
+    },
+    {
+      "bufferView": 1,
+      "componentType": 5126,
+      "count": 1390,
+      "max": [
+        0.9806512594223022,
+        0.9937229156494141
+      ],
+      "min": [
+        0.012233585119247437,
+        0.012605520896613598
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "componentType": 5125,
+      "count": 5952,
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 33360,
+      "componentType": 5126,
+      "count": 21624,
+      "max": [
+        5.394810199737549,
+        1.7360575199631967e-09,
+        4.081228733062744
+      ],
+      "min": [
+        -5.394810199737549,
+        -0.5031900405883789,
+        -4.081228733062744
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 292848,
+      "componentType": 5126,
+      "count": 21624,
+      "max": [
+        1.0,
+        0.9861850142478943,
+        1.0
+      ],
+      "min": [
+        -1.0,
+        -1.0,
+        -1.0
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 3,
+      "byteOffset": 22240,
+      "componentType": 5126,
+      "count": 21624,
+      "max": [
+        1.0,
+        1.0,
+        0.999822199344635,
+        1.0
+      ],
+      "min": [
+        -1.0,
+        -1.0,
+        -0.9999081492424011,
+        -1.0
+      ],
+      "type": "VEC4"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 11120,
+      "componentType": 5126,
+      "count": 21624,
+      "max": [
+        0.9992173314094543,
+        0.9841809272766113
+      ],
+      "min": [
+        0.0007826209766790271,
+        0.0007826209766790271
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 23808,
+      "componentType": 5125,
+      "count": 90984,
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 552336,
+      "componentType": 5126,
+      "count": 4,
+      "max": [
+        4.0,
+        1.4173488125379663e-06,
+        3.0
+      ],
+      "min": [
+        -4.0,
+        -1.4173488125379663e-06,
+        -3.000000238418579
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 552384,
+      "componentType": 5126,
+      "count": 4,
+      "max": [
+        -2.5356808919241303e-07,
+        -1.0,
+        -1.343588280633412e-07
+      ],
+      "min": [
+        -2.5356808919241303e-07,
+        -1.0,
+        -1.343588280633412e-07
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 387744,
+      "componentType": 5125,
+      "count": 6,
+      "type": "SCALAR"
+    }
+  ],
+  "asset": {
+    "extras": {
+      "author": "JmCVoyager (https://sketchfab.com/JmCVoyager)",
+      "license": "CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)",
+      "source": "https://sketchfab.com/3d-models/unseen-fancy-mirror-fb67431f304c464fb47904e94c3a3a50",
+      "title": "Unseen: Fancy Mirror"
+    },
+    "generator": "Sketchfab-12.68.0",
+    "version": "2.0"
+  },
+  "bufferViews": [
+    {
+      "buffer": 0,
+      "byteLength": 387768,
+      "name": "floatBufferViews",
+      "target": 34963
+    },
+    {
+      "buffer": 0,
+      "byteLength": 184112,
+      "byteOffset": 387768,
+      "byteStride": 8,
+      "name": "floatBufferViews",
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 552432,
+      "byteOffset": 571880,
+      "byteStride": 12,
+      "name": "floatBufferViews",
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 368224,
+      "byteOffset": 1124312,
+      "byteStride": 16,
+      "name": "floatBufferViews",
+      "target": 34962
+    }
+  ],
+  "buffers": [
+    {
+      "byteLength": 1492536,
+      "uri": "scene.bin"
+    }
+  ],
+  "images": [
+    {
+      "uri": "textures/2ndFlr_FancyMirror_Lamp_baseColor.png"
+    },
+    {
+      "uri": "textures/2ndFlr_FancyMirror_Lamp_metallicRoughness.png"
+    },
+    {
+      "uri": "textures/2ndFlr_FancyMirror_Lamp_emissive.png"
+    },
+    {
+      "uri": "textures/2ndFlr_FancyMirror_Lamp_normal.png"
+    },
+    {
+      "uri": "textures/2ndFlr_FancyMirror_baseColor.png"
+    },
+    {
+      "uri": "textures/2ndFlr_FancyMirror_metallicRoughness.png"
+    },
+    {
+      "uri": "textures/2ndFlr_FancyMirror_normal.png"
+    }
+  ],
+  "materials": [
+    {
+      "doubleSided": true,
+      "emissiveFactor": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "emissiveTexture": {
+        "index": 2
+      },
+      "name": "2ndFlr_FancyMirror_Lamp",
+      "normalTexture": {
+        "index": 3
+      },
+      "occlusionTexture": {
+        "index": 1
+      },
+      "pbrMetallicRoughness": {
+        "baseColorTexture": {
+          "index": 0
+        },
+        "metallicRoughnessTexture": {
+          "index": 1
+        }
+      }
+    },
+    {
+      "doubleSided": true,
+      "name": "2ndFlr_FancyMirror",
+      "normalTexture": {
+        "index": 6
+      },
+      "occlusionTexture": {
+        "index": 5
+      },
+      "pbrMetallicRoughness": {
+        "baseColorTexture": {
+          "index": 4
+        },
+        "metallicRoughnessTexture": {
+          "index": 5
+        }
+      }
+    },
+    {
+      "doubleSided": true,
+      "name": "2ndFlr_FancyMirror_Glass",
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          0.8,
+          0.8,
+          0.8,
+          1.0
+        ],
+        "roughnessFactor": 0.0
+      }
+    }
+  ],
+  "meshes": [
+    {
+      "name": "2ndFlr_FancyMirror_Lamp_2ndFlr_FancyMirror_Lamp_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 1,
+            "POSITION": 0,
+            "TANGENT": 2,
+            "TEXCOORD_0": 3
+          },
+          "indices": 4,
+          "material": 0,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "2ndFlr_FancyMirror_Core_2ndFlr_FancyMirror_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 6,
+            "POSITION": 5,
+            "TANGENT": 7,
+            "TEXCOORD_0": 8
+          },
+          "indices": 9,
+          "material": 1,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "2ndFlr_FancyMirror_Glass_2ndFlr_FancyMirror_Glass_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 11,
+            "POSITION": 10
+          },
+          "indices": 12,
+          "material": 2,
+          "mode": 4
+        }
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "children": [
+        1
+      ],
+      "matrix": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        2.220446049250313e-16,
+        -1.0,
+        0.0,
+        0.0,
+        1.0,
+        2.220446049250313e-16,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "name": "Sketchfab_model"
+    },
+    {
+      "children": [
+        2
+      ],
+      "matrix": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        -1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "name": "9af65fa592b945979bb2ebee49c56d9e.fbx"
+    },
+    {
+      "children": [
+        3,
+        5,
+        7
+      ],
+      "name": "RootNode"
+    },
+    {
+      "children": [
+        4
+      ],
+      "matrix": [
+        10.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        -1.6292067939183141e-06,
+        -9.999999999999869,
+        0.0,
+        0.0,
+        9.999999999999869,
+        -1.6292067939183141e-06,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "name": "2ndFlr_FancyMirror_Lamp"
+    },
+    {
+      "mesh": 0,
+      "name": "2ndFlr_FancyMirror_Lamp_2ndFlr_FancyMirror_Lamp_0"
+    },
+    {
+      "children": [
+        6
+      ],
+      "matrix": [
+        10.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        -1.6292067939183141e-06,
+        -9.999999999999869,
+        0.0,
+        0.0,
+        9.999999999999869,
+        -1.6292067939183141e-06,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "name": "2ndFlr_FancyMirror_Core"
+    },
+    {
+      "mesh": 1,
+      "name": "2ndFlr_FancyMirror_Core_2ndFlr_FancyMirror_0"
+    },
+    {
+      "children": [
+        8
+      ],
+      "matrix": [
+        10.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        -1.6292067939183141e-06,
+        -9.999999999999869,
+        0.0,
+        0.0,
+        9.999999999999869,
+        -1.6292067939183141e-06,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "name": "2ndFlr_FancyMirror_Glass"
+    },
+    {
+      "mesh": 2,
+      "name": "2ndFlr_FancyMirror_Glass_2ndFlr_FancyMirror_Glass_0"
+    }
+  ],
+  "samplers": [
+    {
+      "magFilter": 9729,
+      "minFilter": 9987,
+      "wrapS": 10497,
+      "wrapT": 10497
+    }
+  ],
+  "scene": 0,
+  "scenes": [
+    {
+      "name": "Sketchfab_Scene",
+      "nodes": [
+        0
+      ]
+    }
+  ],
+  "textures": [
+    {
+      "sampler": 0,
+      "source": 0
+    },
+    {
+      "sampler": 0,
+      "source": 1
+    },
+    {
+      "sampler": 0,
+      "source": 2
+    },
+    {
+      "sampler": 0,
+      "source": 3
+    },
+    {
+      "sampler": 0,
+      "source": 4
+    },
+    {
+      "sampler": 0,
+      "source": 5
+    },
+    {
+      "sampler": 0,
+      "source": 6
+    }
+  ]
+}

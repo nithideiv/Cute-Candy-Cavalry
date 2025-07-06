@@ -1,0 +1,11 @@
+Model Information:
+* title:	Memoirs Washbasin/Sink
+* source:	https://sketchfab.com/3d-models/memoirs-washbasinsink-579df71336a9493f8f52ddc815d2fc39
+* author:	Yaiyeondurising (https://sketchfab.com/5Life)
+
+Model License:
+* license type:	CC-BY-SA-4.0 (http://creativecommons.org/licenses/by-sa/4.0/)
+* requirements:	Author must be credited. Modified versions must have the same license. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Memoirs Washbasin/Sink" (https://sketchfab.com/3d-models/memoirs-washbasinsink-579df71336a9493f8f52ddc815d2fc39) by Yaiyeondurising (https://sketchfab.com/5Life) licensed under CC-BY-SA-4.0 (http://creativecommons.org/licenses/by-sa/4.0/)

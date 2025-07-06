@@ -1,0 +1,11 @@
+Model Information:
+* title:	Unseen: Fancy Mirror
+* source:	https://sketchfab.com/3d-models/unseen-fancy-mirror-fb67431f304c464fb47904e94c3a3a50
+* author:	JmCVoyager (https://sketchfab.com/JmCVoyager)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Unseen: Fancy Mirror" (https://sketchfab.com/3d-models/unseen-fancy-mirror-fb67431f304c464fb47904e94c3a3a50) by JmCVoyager (https://sketchfab.com/JmCVoyager) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
