@@ -1,0 +1,26 @@
+{
+    "m_Dictionary": {
+        "m_DictionaryValues": [
+            {
+                "type": "System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089",
+                "key": "firstTime",
+                "value": "{\"m_Value\":false}"
+            },
+            {
+                "type": "System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089",
+                "key": "autoPublish",
+                "value": "{\"m_Value\":true}"
+            },
+            {
+                "type": "System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089",
+                "key": "createDefaultBuildsFolder",
+                "value": "{\"m_Value\":true}"
+            },
+            {
+                "type": "System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089",
+                "key": "buildOutputDirList",
+                "value": "{\"m_Value\":\"/Users/kyliegriffiths/Documents/410-final-game/410-final/WebGL Builds/Beta_Build_1;/Users/kyliegriffiths/Documents/410-final-game/410-final/WebGL Builds/build_1;C:/Users/Lily Logan/UnityProjects/410-final-game/410-final/Builds/BetaBuild;C:/Users/Lily Logan/UnityProjects/410-final-game/410-final/Builds;C:/Users/Lily Logan/UnityProjects/410-final-game/410-final/WebGL Builds/Beta_build;C:/Users/Lily Logan/UnityProjects/410-final-game/410-final/WebGL Builds/Beta;/Users/kyliegriffiths/Documents/410-final-game/410-final/WebGL Builds;/Users/kyliegriffiths/Documents/410-final-game/410-final/WebGL Build Test;;\"}"
+            }
+        ]
+    }
+}

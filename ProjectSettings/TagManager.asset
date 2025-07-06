@@ -1,0 +1,66 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 3
+  tags:
+  - Camera
+  - 0
+  - 1
+  - 2
+  - Mace_Weapon
+  - on-click
+  - Crossbow_Weapon
+  - Riddle
+  - Sword_Weapon
+  - BananaBat
+  - Candy
+  - SpawnPoints
+  - SpawnPoint
+  - ExitDoor
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Wall
+  - Water
+  - UI
+  - Open_Level_Door
+  - Ground
+  - Player
+  - Enemy
+  - Weapon
+  - Exit_Level_Door
+  - Riddle
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  m_RenderingLayers:
+  - Default
+  - Light Layer 1
+  - Light Layer 2
+  - Light Layer 3
+  - Light Layer 4
+  - Light Layer 5
+  - Light Layer 6
+  - Light Layer 7
