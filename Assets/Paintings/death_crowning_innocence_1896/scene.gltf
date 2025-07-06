@@ -1,0 +1,451 @@
+{
+  "accessors": [
+    {
+      "bufferView": 2,
+      "componentType": 5126,
+      "count": 4,
+      "max": [
+        0.749204158782959,
+        3.248680591583252,
+        -0.010322809219360352
+      ],
+      "min": [
+        -0.7660386562347412,
+        2.196636199951172,
+        -0.010322810150682926
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 48,
+      "componentType": 5126,
+      "count": 4,
+      "max": [
+        -6.146357867109487e-10,
+        0.0,
+        1.0
+      ],
+      "min": [
+        -6.146357867109487e-10,
+        0.0,
+        1.0
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 3,
+      "componentType": 5126,
+      "count": 4,
+      "max": [
+        -3.399361219180719e-07,
+        1.0,
+        -2.0893690241516902e-16,
+        1.0
+      ],
+      "min": [
+        -3.433904964822432e-07,
+        1.0,
+        -2.1106008314169053e-16,
+        1.0
+      ],
+      "type": "VEC4"
+    },
+    {
+      "bufferView": 1,
+      "componentType": 5126,
+      "count": 4,
+      "max": [
+        1.000000238418579,
+        1.0000001192092896
+      ],
+      "min": [
+        -1.1920928955078125e-07,
+        -1.1920928955078125e-07
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "componentType": 5125,
+      "count": 6,
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 96,
+      "componentType": 5126,
+      "count": 100,
+      "max": [
+        0.8820996284484863,
+        3.3815760612487793,
+        0.11960552632808685
+      ],
+      "min": [
+        -0.8989336490631104,
+        2.0637409687042236,
+        -0.013289651833474636
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 1296,
+      "componentType": 5126,
+      "count": 100,
+      "max": [
+        0.9576351046562195,
+        0.9576349258422852,
+        0.9636792540550232
+      ],
+      "min": [
+        -0.9576351046562195,
+        -0.9576351046562195,
+        -1.0
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 3,
+      "byteOffset": 64,
+      "componentType": 5126,
+      "count": 100,
+      "max": [
+        1.0,
+        0.9636789560317993,
+        0.8944279551506042,
+        1.0
+      ],
+      "min": [
+        -0.9636792540550232,
+        -0.9636789560317993,
+        -0.9576351046562195,
+        -1.0
+      ],
+      "type": "VEC4"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 32,
+      "componentType": 5126,
+      "count": 100,
+      "max": [
+        0.3489781320095062,
+        0.9929034113883972
+      ],
+      "min": [
+        0.012759286910295486,
+        0.06935145705938339
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 24,
+      "componentType": 5125,
+      "count": 270,
+      "type": "SCALAR"
+    }
+  ],
+  "asset": {
+    "extras": {
+      "author": "SebastianSosnowski (https://sketchfab.com/SebastianSosnowski)",
+      "license": "CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)",
+      "source": "https://sketchfab.com/3d-models/death-crowning-innocence-1896-ebcbbe30d65a43fa96187ade879d43cd",
+      "title": "Death Crowning Innocence (1896)"
+    },
+    "generator": "Sketchfab-12.67.0",
+    "version": "2.0"
+  },
+  "bufferViews": [
+    {
+      "buffer": 0,
+      "byteLength": 1104,
+      "name": "floatBufferViews",
+      "target": 34963
+    },
+    {
+      "buffer": 0,
+      "byteLength": 832,
+      "byteOffset": 1104,
+      "byteStride": 8,
+      "name": "floatBufferViews",
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 2496,
+      "byteOffset": 1936,
+      "byteStride": 12,
+      "name": "floatBufferViews",
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 1664,
+      "byteOffset": 4432,
+      "byteStride": 16,
+      "name": "floatBufferViews",
+      "target": 34962
+    }
+  ],
+  "buffers": [
+    {
+      "byteLength": 6096,
+      "uri": "scene.bin"
+    }
+  ],
+  "images": [
+    {
+      "uri": "textures/Material_37_baseColor.jpeg"
+    },
+    {
+      "uri": "textures/Material_37_metallicRoughness.png"
+    },
+    {
+      "uri": "textures/Material_37_normal.png"
+    },
+    {
+      "uri": "textures/RamyLP_baseColor.jpeg"
+    },
+    {
+      "uri": "textures/RamyLP_metallicRoughness.png"
+    },
+    {
+      "uri": "textures/RamyLP_normal.png"
+    }
+  ],
+  "materials": [
+    {
+      "name": "Material_37",
+      "normalTexture": {
+        "index": 2
+      },
+      "occlusionTexture": {
+        "index": 1
+      },
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          0.7653030396,
+          0.7653030396,
+          0.7653030396,
+          1.0
+        ],
+        "baseColorTexture": {
+          "index": 0
+        },
+        "metallicFactor": 0.0,
+        "metallicRoughnessTexture": {
+          "index": 1
+        }
+      }
+    },
+    {
+      "name": "RamyLP",
+      "normalTexture": {
+        "index": 5
+      },
+      "occlusionTexture": {
+        "index": 4
+      },
+      "pbrMetallicRoughness": {
+        "baseColorTexture": {
+          "index": 3
+        },
+        "metallicRoughnessTexture": {
+          "index": 4
+        }
+      }
+    }
+  ],
+  "meshes": [
+    {
+      "name": "Obraz02_ready_Material #37_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 1,
+            "POSITION": 0,
+            "TANGENT": 2,
+            "TEXCOORD_0": 3
+          },
+          "indices": 4,
+          "material": 0,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "Obraz02_ready_RamyLP_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 6,
+            "POSITION": 5,
+            "TANGENT": 7,
+            "TEXCOORD_0": 8
+          },
+          "indices": 9,
+          "material": 1,
+          "mode": 4
+        }
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "children": [
+        1
+      ],
+      "matrix": [
+        0.008166353218257427,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.8132946740262284e-18,
+        -0.008166353218257427,
+        0.0,
+        0.0,
+        0.008166353218257427,
+        1.8132946740262284e-18,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "name": "Sketchfab_model"
+    },
+    {
+      "children": [
+        2
+      ],
+      "matrix": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        -1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "name": "cbb7deb4f55543f78096ba2726c8200c.fbx"
+    },
+    {
+      "children": [
+        3
+      ],
+      "name": "RootNode"
+    },
+    {
+      "children": [
+        4
+      ],
+      "matrix": [
+        100.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        2.220446049250313e-14,
+        -100.0,
+        0.0,
+        0.0,
+        100.0,
+        2.220446049250313e-14,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "name": "Obraz02_ready"
+    },
+    {
+      "children": [
+        5,
+        6
+      ],
+      "matrix": [
+        6.123233995736766e-17,
+        0.0,
+        -1.0,
+        0.0,
+        -0.0,
+        1.0,
+        -0.0,
+        0.0,
+        1.0,
+        0.0,
+        6.123233995736766e-17,
+        0.0,
+        -4.999898374080658e-05,
+        -2.7216362953186035,
+        -0.008019328117370605,
+        1.0
+      ],
+      "name": "Object_4"
+    },
+    {
+      "mesh": 0,
+      "name": "Obraz02_ready_Material #37_0"
+    },
+    {
+      "mesh": 1,
+      "name": "Obraz02_ready_RamyLP_0"
+    }
+  ],
+  "samplers": [
+    {
+      "magFilter": 9729,
+      "minFilter": 9987,
+      "wrapS": 10497,
+      "wrapT": 10497
+    }
+  ],
+  "scene": 0,
+  "scenes": [
+    {
+      "name": "Sketchfab_Scene",
+      "nodes": [
+        0
+      ]
+    }
+  ],
+  "textures": [
+    {
+      "sampler": 0,
+      "source": 0
+    },
+    {
+      "sampler": 0,
+      "source": 1
+    },
+    {
+      "sampler": 0,
+      "source": 2
+    },
+    {
+      "sampler": 0,
+      "source": 3
+    },
+    {
+      "sampler": 0,
+      "source": 4
+    },
+    {
+      "sampler": 0,
+      "source": 5
+    }
+  ]
+}

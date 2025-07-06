@@ -1,0 +1,49 @@
+fileFormatVersion: 2
+guid: 19e8a3371f25021409c1cb596e3a2664
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: 715df9372183c47e389bb6e19fbc3b52, type: 3}
+  editorImportSettings:
+    generateSecondaryUVSet: 0
+  importSettings:
+    nodeNameMethod: 1
+    animationMethod: 2
+    generateMipMaps: 1
+    texturesReadable: 0
+    defaultMinFilterMode: 9729
+    defaultMagFilterMode: 9729
+    anisotropicFilterLevel: 1
+  instantiationSettings:
+    mask: -1
+    layer: 0
+    skinUpdateWhenOffscreen: 1
+    lightIntensityFactor: 1
+    sceneObjectCreation: 2
+  assetDependencies:
+  - type: 0
+    originalUri: Assets\Sandboxes\Lily\death_crowning_innocence_1896\scene.bin
+    assetPath: Assets\Sandboxes\Lily\death_crowning_innocence_1896\scene.bin
+  - type: 1
+    originalUri: Assets\Sandboxes\Lily\death_crowning_innocence_1896\textures\Material_37_baseColor.jpeg
+    assetPath: Assets\Sandboxes\Lily\death_crowning_innocence_1896\textures\Material_37_baseColor.jpeg
+  - type: 1
+    originalUri: Assets\Sandboxes\Lily\death_crowning_innocence_1896\textures\Material_37_metallicRoughness.png
+    assetPath: Assets\Sandboxes\Lily\death_crowning_innocence_1896\textures\Material_37_metallicRoughness.png
+  - type: 1
+    originalUri: Assets\Sandboxes\Lily\death_crowning_innocence_1896\textures\Material_37_normal.png
+    assetPath: Assets\Sandboxes\Lily\death_crowning_innocence_1896\textures\Material_37_normal.png
+  - type: 1
+    originalUri: Assets\Sandboxes\Lily\death_crowning_innocence_1896\textures\RamyLP_baseColor.jpeg
+    assetPath: Assets\Sandboxes\Lily\death_crowning_innocence_1896\textures\RamyLP_baseColor.jpeg
+  - type: 1
+    originalUri: Assets\Sandboxes\Lily\death_crowning_innocence_1896\textures\RamyLP_metallicRoughness.png
+    assetPath: Assets\Sandboxes\Lily\death_crowning_innocence_1896\textures\RamyLP_metallicRoughness.png
+  - type: 1
+    originalUri: Assets\Sandboxes\Lily\death_crowning_innocence_1896\textures\RamyLP_normal.png
+    assetPath: Assets\Sandboxes\Lily\death_crowning_innocence_1896\textures\RamyLP_normal.png
+  reportItems: []

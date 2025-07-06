@@ -1,0 +1,11 @@
+Model Information:
+* title:	Painting by Zdzislaw Beksinski (3)
+* source:	https://sketchfab.com/3d-models/painting-by-zdzislaw-beksinski-3-11c1da576435418b800d50a942b77a6b
+* author:	SebastianSosnowski (https://sketchfab.com/SebastianSosnowski)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Painting by Zdzislaw Beksinski (3)" (https://sketchfab.com/3d-models/painting-by-zdzislaw-beksinski-3-11c1da576435418b800d50a942b77a6b) by SebastianSosnowski (https://sketchfab.com/SebastianSosnowski) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

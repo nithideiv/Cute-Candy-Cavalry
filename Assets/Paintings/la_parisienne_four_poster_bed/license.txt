@@ -1,0 +1,11 @@
+Model Information:
+* title:	La Parisienne Four Poster Bed
+* source:	https://sketchfab.com/3d-models/la-parisienne-four-poster-bed-28a7aa6847404203b996415a036a21e9
+* author:	Nick Havas (https://sketchfab.com/nickhavas)
+
+Model License:
+* license type:	CC-BY-NC-4.0 (http://creativecommons.org/licenses/by-nc/4.0/)
+* requirements:	Author must be credited. No commercial use.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "La Parisienne Four Poster Bed" (https://sketchfab.com/3d-models/la-parisienne-four-poster-bed-28a7aa6847404203b996415a036a21e9) by Nick Havas (https://sketchfab.com/nickhavas) licensed under CC-BY-NC-4.0 (http://creativecommons.org/licenses/by-nc/4.0/)
